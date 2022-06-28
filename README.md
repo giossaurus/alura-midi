@@ -1,4 +1,4 @@
-![readme img](https://github.com/giossaurus/)
+![readme img](https://github.com/giossaurus/alura-midi/blob/main/readme%20estudosalura%20javascript.png)
 <br>
 
 

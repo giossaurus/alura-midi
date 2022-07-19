@@ -14,8 +14,10 @@ while (contador < listaDeTeclas.length) {
 
     console.log(instrumento);
 
+    const idAudio = `#som_${instrumento}`;
+
     tecla.onclick = function () {
-        tocaSom('#som_tecla_pom');
+        tocaSom(idAudio);
     };
 
     contador = contador + 1;
